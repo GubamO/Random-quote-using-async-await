@@ -16,7 +16,4 @@ async function getJSON(){
     img.setAttribute("alt", "Photo de " + myObject.name)
     console.log(myObject.photo)
 }    
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
